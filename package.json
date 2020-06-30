@@ -72,7 +72,7 @@
     "express": "4.16.4",
     "express-brute": "1.0.1",
     "express-hbs": "2.1.2",
-    "express-jwt": "5.3.1",
+    "express-jwt": "6.0.0",
     "express-query-boolean": "2.0.0",
     "express-session": "1.15.6",
     "extract-zip": "1.6.7",
